@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sivakesh
+- 👀 I’m interested in Webdev and UI design
+- 🌱 I’m currently learning mobile development
+- 📫 How to reach me through my mail - sivakcr8@gmail.com
