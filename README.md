@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sivakesh
-- 👀 I’m interested in Webdev and UI design
-- 🌱 I’m currently learning mobile development
-- 📫 How to reach me through my mail - sivakcr8@gmail.com
+- 👀 I’m a backend developer currently building cybergladium.com
+- 🌱 Interested in mobile development
+- 📫 How to reach me - sivakcr8@gmail.com
 - 😎 Machinery of CyberGladium
